@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    height: 100vh;
+    background-color: #08082E;
+}
+
+
+.login{
+    text-align: center;
+    width: 250px;
+    height: 200px;
+    align-items: center;
+    box-shadow: 5px 5px 10px  rgba(0, 0, 0, 0.5);
+    color: white;
+    border-radius: 10px;
+}
+
+#conectar{
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.863);
+    text-decoration: none;
+    color: #08082E;
+}
