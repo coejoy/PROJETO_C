@@ -22,7 +22,7 @@ body {
     background-color: #7a7a7a0c;
     text-align: center;
     width: 250px;
-    height: 200px;
+    height: 250px;
     box-shadow: 5px 5px 10px  rgba(0, 0, 0, 0.5);
     color: white;
     border-radius: 10px;
@@ -46,7 +46,7 @@ a{
     color: #ffffff; 
 }
 
-#email,#senha{
+#email,#senha,#nome,#usuario{
     margin-bottom: 5px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.863);
     border: none;
