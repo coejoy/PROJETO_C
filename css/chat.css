@@ -1,0 +1,37 @@
+body {
+    font-family: 'Kinsta', sans-serif; 
+    font-weight: 400;
+    display: flex;
+    justify-content: center; 
+    align-items: end;
+    height: 100vh;
+    background-color: #08082E;
+}
+
+
+
+
+
+.chat {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+#mensagem {
+    border: none;
+    border-radius: 5px;
+}
+
+#enviar {
+    background-color: #4caf4f00;
+    color: rgb(0, 164, 150);
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 5px;
+}
